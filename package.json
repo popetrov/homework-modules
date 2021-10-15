@@ -1,0 +1,17 @@
+{
+  "name": "Password",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fortify-js": "2.2.2",
+    "passwordmeter-js": "0.0.1"
+  }
+}
